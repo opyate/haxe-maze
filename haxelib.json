@@ -1,0 +1,18 @@
+{
+  "name": "maze",
+  "url": "https://github.com/opyate/haxe-maze",
+  "license": "MIT",
+  "tags": [
+    "cross"
+  ],
+  "description": "2D mazes.",
+  "version": "0.0.1",
+  "releasenote": "See CHANGES.txt",
+  "contributors": [
+    "opyate"
+  ],
+  "dependencies": {
+    "seedyrng": ""
+  },
+  "main": "lib.Main"
+}

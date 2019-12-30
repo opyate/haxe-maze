@@ -1,0 +1,4 @@
+# 0.0.1
+
+- Maze using Prim's algo
+- Maze using Depth First
