@@ -1,3 +1,5 @@
+[haxelib](https://lib.haxe.org/p/maze/)
+
 # Maze
 
 Generate 2D mazes, using either [Depth First](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Depth-first_search) or [Prim's](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Randomized_Prim's_algorithm).
